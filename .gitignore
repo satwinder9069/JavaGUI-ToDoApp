@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+
+# Ignore IDE/build output
+/out/
+/bin/
+/target/
+
+# Ignore IDE settings (IntelliJ, Eclipse, VSCode)
+.idea/
+*.iml
+.project
+.classpath
+.vscode/
