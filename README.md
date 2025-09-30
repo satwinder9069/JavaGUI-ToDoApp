@@ -79,17 +79,25 @@ task6_JavaGUI_TodoApp/
 ---
 ## 🖱️ How to Use
 **1. Add a Task**➕
+
     - Type your task in the text field ✍️
+
     - Press Enter ⏎ or click "Add Task"
 
 **2. Mark as Complete** ✅
+
     - Check the checkbox ☑️ next to a task
+
     - The task will be grayed out and struck through
 
 **3. Delete a Task** ❌
+
     - Click the 🗑️ button next to any task
+
     - Clear All Tasks 🧹
+
     - Click the "🗑️ Clear All" button
+
     - Confirm the action in the dialog box
   
 ---
