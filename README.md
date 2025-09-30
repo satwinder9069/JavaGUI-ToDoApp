@@ -27,29 +27,31 @@ A simple and intuitive ToDo application built with Java Swing. Easily add, compl
     - ☕ Java 17 or later  
     - 🛠️ A Java IDE (IntelliJ IDEA, Eclipse) or command line  
 
-- #### ▶️ Running the App
+- ### ▶️ Running the App
 
-   #### Option 1: Using an IDE
-   -> 1. Clone or Download this repository:
+ #### Option 1: Using an IDE
+- 1. Clone or Download this repository:
+
     ```
     git clone https://github.com/satwinder9069/JavaGUI-ToDoApp.git
     cd JavaGUI-ToDoApp
     ```
-    -> 2. Open in IntelliJ IDEA:
+    
+- 2. Open in IntelliJ IDEA:
       - File → Open → Select project folder
       - Wait for indexing to complete
-  
-    -> 3. Open in Eclipse:
-      - File → Import → Existing Projects into Workspace
-      - Select root directory → Finish
+      
+- 3. Open in Eclipse:
+    - File → Import → Existing Projects into Workspace
+    - Select root directory → Finish
  
 
-   #### Option 2: Command Line
-   -> 1. Compile the code:  
+#### Option 2: Command Line
+- 1. Compile the code:  
    ```
    javac task6_JavaGUI_TodoApp/*.java
    ```
-   -> 2. Run the application:
+- 2. Run the application:
    ```
    java task6_JavaGUI_TodoApp.TodoApp
    ```
@@ -87,14 +89,10 @@ task6_JavaGUI_TodoApp/
 - The task will be grayed out and struck through
 
 **3. Delete a Task** ❌
-
-    - Click the 🗑️ button next to any task
-
-    - Clear All Tasks 🧹
-
-    - Click the "🗑️ Clear All" button
-
-    - Confirm the action in the dialog box
+- Click the 🗑️ button next to any task
+- Clear All Tasks 🧹
+- Click the "🗑️ Clear All" button
+- Confirm the action in the dialog box
   
 ---
 ## 🎨 Customization
